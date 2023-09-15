@@ -1,0 +1,4 @@
+# Week_03 data 
+sensor: '/homes/jkdiazbarba/Documents/Data_Science_3/Data/sensor.csv'
+housing: '/homes/jkdiazbarba/Documents/Data_Science_3/Data/housing-data.txt'
+breast_cancer: '/homes/jkdiazbarba/Documents/Data_Science_3/breast-cancer.csv'
